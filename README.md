@@ -10,7 +10,7 @@ Final project for the Building AI course
 
 ## Summary
 
-This my project Building AI course
+This my project Building AI course “Building AI course project”
 
 
 ## Background
